@@ -1,7 +1,10 @@
-# 
+# averag_mult_three
 
-Description. 
-The package package_name is used to:
+This package was created as a learning exercise for creating packages in Python through the Digital Innovation One Bootcamp: "Cognizant Cloud Data Engineer #2".
+
+The exercise module was taught by Karina Kato under the name "Uncomplicating the creation of image processing packages in Python".
+
+The package averag_mult_three is used to:
 	- Calculate the average of three numbers
 	- Calculate the multiplication of three numbers
 

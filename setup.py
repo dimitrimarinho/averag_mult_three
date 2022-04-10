@@ -7,15 +7,14 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="package_name",
+    name="averag_mult_three",
     version="0.0.1",
-    author="my_name",
+    author="Dimitri Marinho",
     author_email="my_email",
-    description="My short description",
+    description="Testando a criação de pacote em Python",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="my_github_repository_project_link"
+    url="my_github_repository_project_link",
     packages=find_packages(),
-    install_requires=requirements,
     python_requires='>=3.8',
 )
